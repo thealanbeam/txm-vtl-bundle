@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>fhtml</string>
+	</array>
+	<key>name</key>
+	<string>Velocity (HTML)</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>text.html.basic</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.velocity</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>text.html.velocity</string>
+	<key>uuid</key>
+	<string>ECA114B6-F103-4D5B-BD0A-9CCD9F797018</string>
+</dict>
+</plist>
