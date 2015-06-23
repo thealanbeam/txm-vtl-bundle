@@ -1,0 +1,1 @@
+This is a bundle for the OSX text editor TextMate, which provides syntax-highlighting and some code-snippets for the Java templating language Velocity.
